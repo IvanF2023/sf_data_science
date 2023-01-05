@@ -18,12 +18,12 @@ while True:
     elif predict_number < number:
         min = predict_number
         print(f"Число должно быть больше {predict_number}")
-        int(round(min+max)/2)
+        print(f'Алгоритм бинарного поиска рекомендует вам число:{round((max + min) / 2)}')
     
     elif number < predict_number:
         max = predict_number
         print(f"Число должно быть меньше {predict_number}")
-        int(round(min+max)/2)
+        print(f'Алгоритм бинарного поиска рекомендует вам число:{round((max + min) / 2)}')
 print(f"Вы угадали число! Это число {number}, за {count} попыток")
     
     
