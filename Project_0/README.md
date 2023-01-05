@@ -5,12 +5,12 @@ From the [Skillfactory_DS_Course](https://github.com/IvanF2023/sf_data_science)
 * [Проект_0. Игра: Угадай число](https://github.com/IvanF2023/sf_data_science/blob/main/Project_0/game.py)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Описание-проекта)<br/>
-[2. Какой кейс решаем?](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Какой-кейс-решаем)<br/>
-[3. Краткая информация о данных](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Краткая-информация-о-данных)<br/>
-[4. Этапы работы над проектом](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Этапы-работы-над-проектом)<br/>
-[5. Результат](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Результат)<br/>
-[6. Выводы](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Выводы)<br/>
+[1. Описание проекта](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#описание-проекта)<br/>
+[2. Какой кейс решаем?](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#какой-кейс-решаем)<br/>
+[3. Краткая информация о данных](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#краткая-информация-о-данных)<br/>
+[4. Этапы работы над проектом](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#этапы-работы-над-проектом)<br/>
+[5. Результат](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#результат)<br/>
+[6. Выводы](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#выводы)<br/>
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток
