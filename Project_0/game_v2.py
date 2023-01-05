@@ -7,10 +7,10 @@ def predict_number(number:int=1) -> int:
     max = 100
     while True:
         predict_numer = round((min+max)/2)
-        #predict = int(input())
+     
         count += 1
         if number == predict_numer:
-            break
+            break   
         elif number > predict_numer:
             min = predict_numer
             print(f"Угадываемое число больше {predict_numer}")
