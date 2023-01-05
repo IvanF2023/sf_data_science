@@ -2,7 +2,8 @@
 From the [Skillfactory_DS_Course](https://github.com/IvanF2023/sf_data_science) 
 
 # SF hometask
-* [Проект_0. Игра: Угадай число](https://github.com/IvanF2023/sf_data_science/blob/main/Project_0/game.py)
+* [Проект_0. Игра: Угадай число](https://github.com/IvanF2023/sf_data_science/blob/main/Project_0/game.py
+* [Проект_1. Игра: Угадай число](https://github.com/IvanF2023/sf_data_science/blob/main/Project_0/game_v2.py)
 
 ## Оглавление
 [1. Описание проекта](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#описание-проекта)<br/>
