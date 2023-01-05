@@ -18,13 +18,12 @@ while True:
     elif predict_number < number:
         min = predict_number
         print(f"Число должно быть больше {predict_number}")
-        print(f"Алгоритм поиска рекомендует вам число: {int(round(min+max)/2)}")
+        int(round(min+max)/2)
     
     elif number < predict_number:
         max = predict_number
         print(f"Число должно быть меньше {predict_number}")
-        print(f"Алгоритм поиска рекомендует вам число: {int(round(min+max)/2)}")
-
+        int(round(min+max)/2)
 print(f"Вы угадали число! Это число {number}, за {count} попыток")
     
     
