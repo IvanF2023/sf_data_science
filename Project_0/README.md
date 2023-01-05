@@ -30,4 +30,4 @@ From the [Skillfactory_DS_Course](https://github.com/IvanF2023/sf_data_science)
 
 **Что практикуем?**
 Учимся писать хороший код на Python
-
+:arrow_up:[к оглавлению](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/Readme.md#Оглавление)
