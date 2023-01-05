@@ -29,5 +29,7 @@ From the [Skillfactory_DS_Course](https://github.com/IvanF2023/sf_data_science)
 Результаты оцениваются по среднему количеству попыток при 1000 повторений.
 
 **Что практикуем?**
-Учимся писать хороший код на Python.
++ Учимся писать хороший код на Python.
++ Учимся работать с IDE.
++ Учимся работать с GitHub.
 :arrow_up:[к оглавлению](https://github.com/IvanF2023/sf_data_science/tree/main/Project_0/#оглавление)
