@@ -14,11 +14,10 @@ while True:
     elif number > predict_numer:
         min = predict_numer
         print(f"Угадываемое число больше {predict_numer}")
-        print(f'Алгоритм поиска рекомендует вам число:{round((max + min) / 2)}')
+        round((max + min) / 2)
     elif number < predict_numer:
         max = predict_numer
         print(f"Угадываемое число меньше {predict_numer}")
-        print(f'Алгоритм поиска рекомендует вам число:{round((max+min)/2)}')
-
+        round((max+min)/2)
 
 print(f"Вы угадали число {number} за {count} попыток.")
