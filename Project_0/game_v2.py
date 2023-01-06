@@ -1,26 +1,25 @@
 import numpy as np
 def predict_number(number:int=1) -> int:
-
+  
     count = 0
     number = np.random.randint(1, 101)
     print("Загадано число от 1 до 100")
-    min = 0
+    min = 0         
     max = 100
     while True:
-        predict = round((min+max)/2)
+        predict_num = round((min+max)/2)
         #predict = int(input())
-        count += 1
-        if number == predict:
+        count += 1 
+        if number == predict_num:
             break
-        elif number > predict:
-            min = predict
-            print(f"Угадываемое число больше {predict}")
+        elif number > predict_num:
+            min = predict_num
+            print(f"Угадываемое число больше {predict_num}")
             print(f'Алгоритм бинарного поиска рекомендует вам число:{round((max + min) / 2)}')
-        elif number < predict:
-            max = predict
-            print(f"Угадываемое число меньше {predict}")
+        elif number < predict_num:
+            max = predict_num
+            print(f"Угадываемое число меньше {predict_num}")
             print(f'Алгоритм бинарного поиска рекомендует вам число:{round((max+min)/2)}')
-
-
+        
     print(f"Вы угадали число {number} за {count} попыток.")
-predict_number()
+predict_number() 
